@@ -3,4 +3,4 @@
 * 제출할 것들
   * 소스코드 3가지 (StudentInfo.java, BankInterest.java, SizeCalculator.java)
   * 실행화면 (코드와 콘솔 부분 스크린샷 포함) 첨부
-  * [예제](capture.png)
+  * ![예제](capture.png)
